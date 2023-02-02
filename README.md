@@ -21,13 +21,13 @@ Any contribution to the repo is welcome :-)
 
 ### NPM
 ```bash
-npm install --save react-native-text-input-mask
+npm install --save @itesaurabh/react-native-text-input-mask
 ```
 ## OR
 
 ### Yarn
 ```bash
-yarn add react-native-text-input-mask
+yarn add @itesaurabh/react-native-text-input-mask
 ```
 
 # Installation
